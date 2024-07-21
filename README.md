@@ -11,5 +11,5 @@ different partitions of data, and their respective RMS Errors.
 This algorithmic model is well suited for the variables in the given dataset, goods.csv, but likely not entirely suitable for datasets with high variance which would produce relatively skewed output, biasing interpretation of real-world data.
 
 <p align="center">
-    <img src="proxy-hedging.jpg" alt="Screenshot of cross-validation on linear regression result on dataset" title="Cross-Validation of Linear Regression on Mineral Markets width: auto; height: auto; max-width: 100%; max-height: 100%;">
+    <img src="proxy-hedging.png" alt="Screenshot of cross-validation on linear regression result on dataset" title="Cross-Validation of Linear Regression on Mineral Markets width: auto; height: auto; max-width: 100%; max-height: 100%;">
 </p>
